@@ -32,7 +32,7 @@ Pomodoneapp Productivity App is a focus and work-session tool built around conne
 
 PomoDoneApp motivates through visibility, task connection, and progress feedback rather than relying only on novelty or decorative rewards.
 
-[![Focus cycle timer badge](https://img.shields.io/badge/Pomodoneapp-E15241?style=flat-square&logo=clockify)](https://bodenfordklmk.github.io/.github/pomodoneapp-productivity-app)
+[![Focus cycle timer badge](https://img.shields.io/badge/Pomodoneapp-E15241?style=flat-square&logo=clockify)](https://haroldsosarowj.github.io/.github/pomodoneapp-productivity-app)
 
 - **Task integration:** Connecting timers to tasks reduces vague work sessions and makes each block easier to justify.
 - **Progress records:** Session history helps users see completed effort, which can support momentum across a long workday.
